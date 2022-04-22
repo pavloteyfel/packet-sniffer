@@ -1,5 +1,11 @@
 # Packet Sniffer
+Python 3.9+ is required, tested on Kali Linux.
+Currently supports only HTTP protocol.
 
+## Example Usage
+```
+python3 packetsniffer.py -i wlan0
+```
 
 
 ## Disclaimer
